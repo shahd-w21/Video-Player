@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🎬+Video+Player;C%2B%2B+WinForms+GUI+Project;Data+Structures+%7C+Linked+List;&center=true&width=700&height=80&size=28&weight=700&color=378ADD&pause=1000)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🎬+Video+Player;C%2B%2B+WinForms+GUI+Project;Data+Structures+%7C+Linked+List;&center=true&width=700&height=80&size=28&weight=700&color=D767F6&pause=1000)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
