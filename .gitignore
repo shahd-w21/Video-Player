@@ -1,0 +1,16 @@
+.vs/
+x64/
+*.obj
+*.pdb
+*.exe
+*.log
+*.tlog/
+*.user
+*.suo
+*.cache
+*.vsidx
+*.lastbuildstate
+Debug/
+Release/
+VideoPlayer/x64/Debug/
+VideoPlayer/VideoPlayerw/x64/Debug/
